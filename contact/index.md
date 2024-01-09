@@ -6,16 +6,6 @@ navigation_weight: 2
 permalink: /contact/
 ---
 
-### Test
-
-| Tables   |      Are      |  Coolxxx |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-algigned |    $1 |
-
-
-
 ### Contact Us
 
 | Contact | Details |
