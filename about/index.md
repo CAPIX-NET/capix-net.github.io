@@ -29,4 +29,11 @@ Our Values and What We Believe -> [Learn More](https://capix.net/about/what-we-b
 | 2001 | Internet-based Bond Trading system for Commonwealth Bank |
 | 2002 | CAPIX expands into New Zealand market with sales of CTM to five new clients |
 | 2003 | Brunei Shell Petroleum implement CAPIX Treasury Centre (CTC) |
-
+| 2005 | Major enhancements to CTM and CTC for Hedge Accounting and Risk Management |
+| 2008 | Open Banking adopted by CAPIX |
+| 2011 | Expansion in Singapore and Asia-Pacific Region |
+| 2014 | First sales of CTM in Africa |
+| 2015 | CAPIX becomes a Microsoft Development Partner |
+| 2018 | CTM and CTC Blockchain support |
+| 2020 | First Peatio exchange consulting client in Canada |
+| 2023 | Project for implementing AI Cash Forecasting |
