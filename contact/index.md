@@ -7,7 +7,8 @@ permalink: /contact/
 ---
 
 ### Test
-| Tables   |      Are      |  Cool |
+
+| Tables   |      Are      |  Coolxxx |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
@@ -16,6 +17,7 @@ permalink: /contact/
 
 
 ### Contact Us
+
 | Contact | Details |
 |:----------|------------- |
 | Phone (toll-free Australia) | 1300 65 0055 |
@@ -26,6 +28,7 @@ permalink: /contact/
 
 
 ### Social Media
+
 | Media | URL Link |
 |:---------------|------------------------------------|
 | Website	| <a href="https://www.capix.net" target="_blank">https://www.capix.net</a> |
