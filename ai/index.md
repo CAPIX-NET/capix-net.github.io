@@ -1,4 +1,4 @@
-# Cashflow Forecasting using Artificial Intelligence
+# Cashflow Forecasting - Artificial Intelligence
 
 ## Empowering Treasury Teams with Smarter Forecasting
 
