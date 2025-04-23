@@ -8,7 +8,7 @@ permalink: /news/
 
 ### CAPIX News and Updates
 
-| Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |      Details      |
+| Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |      Details      |
 |----------|-------------|
 | 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress|
 | 11-Feb-25 | FX volatility metrics and currency correlations have been added to the AI model for Cashflow forecasting |
@@ -22,7 +22,7 @@ permalink: /news/
 | 02-Dec-23 | The financial library bond, options and swaps pricing module has been upgraded version to 23.12.01 |
 | 29-Sep-23 | A new package manager for software updates will be delivered as part of the next upgrade for CAPIX desktop software solutions. |
 | 09-Sep-23 | CTC version 23.0901 has been released |
-| 12-Aug-23 | The CAPIX CER SSL Certiciates have been updated |
+| 12-Aug-23 | Teh major upgrade for the Foreign Exchange module has been released, including management of forward-forward FX contracts |
 | 17-Jun-23 | The CAPIX CER SSL Certiciates have been updated |
 | 23-May-23 | New pricing option options are available for amortising Swaps contracts |
 | 07-May-23 | A new API for HSBC multi-currency bank transactions is available |

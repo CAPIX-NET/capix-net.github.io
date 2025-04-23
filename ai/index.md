@@ -1,4 +1,4 @@
-# Next Generation Cashflow Forecasting with Artificial Intelligence
+# Cashflow Forecasting using Artificial Intelligence
 
 ## Empowering Treasury Teams with Smarter Forecasting
 
@@ -62,6 +62,6 @@ The system then applies a **hybrid AI model** — combining deep learning and ma
 
 ## Learn More
 
-Want to see the AI forecast module in action? Contact your CAPIX representative for a personalized demo or visit [www.capix.com](https://www.capix.com).
+Want to see the AI forecast module in action? Contact CAPIX for a personalized demonstration or visit [www.capix.net](https://www.capix.net).
 
 _CAPIX – empowering better decisions through intelligent treasury solutions._

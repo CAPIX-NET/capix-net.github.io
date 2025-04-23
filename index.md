@@ -8,6 +8,9 @@ permalink: /
 ![Agile Treasury](/assets/agile-illustrations.png)
 ### Software Products
 CAPIX Treasury Software publishes a portfolio of packaged software for the capital and financial markets. Our clients include banks, brokers, investment managers and treasury operations -> [Learn More](https://capix.net/products/).
+
+CAPIX is delivering the next generation of Cash Management and Forecasting using Artificial Intelligence -> [Learn More](https://capix.net/AI/)
+
 ### Professional Services
 CAPIX offers a range of Professional Services related to our software and capital markets technology -> [Learn More](https://capix.net/services/)
 ### Client Portal
