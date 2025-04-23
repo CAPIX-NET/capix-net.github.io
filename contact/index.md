@@ -10,10 +10,11 @@ permalink: /contact/
 
 | Contact | Details |
 |:----------|------------- |
+| CAPIX Treasury Software Pty Ltd | ABN 81 072 587 976 |
 | Phone (toll-free Australia) | 1300 65 0055 |
 | Phone (International) | +613 9521 2888 |
 | Email | info@capix.net |
-| Office Address | Suite 3, 598 St Kilda Rd, Melbourne VIC 3004 |
+| Office Address | Level 2, 696 Bourke St, Melbourne VIC 3000 |
 | Postal Address | P.O. Box 6052, Melbourne VIC 3004 |
 
 

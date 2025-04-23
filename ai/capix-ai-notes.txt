@@ -1,0 +1,6 @@
+
+CAPIX develops and sells software to corporate treasury operations in several countries. 
+An important part of this software is cash management and cashflow forecasting across multiple currencies.
+Data is imported from the ERP systems of these large corporations, and cashflow data such as accounts payable, accounts receivable and budgets is used to prepare cashflow forecasts.
+CAPIX wants to develop Artifical Intelligence software to improve the cashflow forecasting. Suggest the best Artifical Intelligence model and tools to achieve this?
+

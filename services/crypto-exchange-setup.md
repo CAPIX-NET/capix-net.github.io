@@ -1,6 +1,6 @@
 ---
-title: "CAPIX is the Asia-Pacific Partner for Helios Peatio.tech"
-date: "2019-04-22"
+title: "Establishing and Australina Cryptocurrency Exchange"
+date: "2024-04-22"
 ---
 CAPIX has been delivering software solutions for the treasury sector since 1991. We’ve accumulated world-class expertise in the capital and financial markets.
 
