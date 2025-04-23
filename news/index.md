@@ -8,7 +8,7 @@ permalink: /news/
 
 ### CAPIX News and Updates
 
-| Date   |      Details      |
+| Date     |      Details      |
 |----------|-------------|
 | 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress|
 | 11-Feb-25 | FX volatility metrics and currency correlations have been added to the AI model for Cashflow forecasting |
