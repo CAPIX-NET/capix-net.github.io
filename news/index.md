@@ -10,7 +10,7 @@ permalink: /news/
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |      Details      |
 |----------|-------------|
-| 22 &nbsp; Mar &nbsp; 25 | Intgration and testing NeuralProphet for time-series data is in progress|
+| 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress|
 | 11-Feb-25 | FX volatility metrics and currency correlations have been added to the AI model for Cashflow forecasting |
 | 21-Dec-24 | Seasons greetings and best wishes for the coming year, CAPIX has exciting announcements to make during 2025 |
 | 28-Sep-24 | All cloud resources, including VMs and database, have been migrated to the Microsoft Azure South-East datacentre |
@@ -26,7 +26,8 @@ permalink: /news/
 | 17-Jun-23 | The CAPIX CER SSL Certiciates have been updated |
 | 23-May-23 | New pricing option options are available for amortising Swaps contracts |
 | 07-May-23 | A new API for HSBC multi-currency bank transactions is available |
-| 02-Mar-23 | Our Azure Cloud Virtual Machines have been upgraded with additional CPUs |
+| 02-Mar-23 | Our Azure Cloud Virtual Machines have been upgraded with additional CPUs to improve response times and availability |
 | 19-Feb-23 | CTC version 23.0217 has been released |
-| 14_Feb_23 | CTM version 23.0217 has been released |
+| 14-Feb-23 | CTM version 23.0217 has been released |
+| 25_Jan_23 | Our C++ pricing and yield curve library .dll packages can now be downloaded as a seperate package and used as MS Excel add-ins |
 
