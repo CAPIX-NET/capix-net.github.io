@@ -10,7 +10,7 @@ permalink: /news/
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |      Details      |
 |----------|-------------|
-| 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress|
+| 22 &nbsp; Mar &nbsp; 25 | Intgration and testing NeuralProphet for time-series data is in progress|
 | 11-Feb-25 | FX volatility metrics and currency correlations have been added to the AI model for Cashflow forecasting |
 | 21-Dec-24 | Seasons greetings and best wishes for the coming year, CAPIX has exciting announcements to make during 2025 |
 | 28-Sep-24 | All cloud resources, including VMs and database, have been migrated to the Microsoft Azure South-East datacentre |
