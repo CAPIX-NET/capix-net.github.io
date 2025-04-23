@@ -1,4 +1,4 @@
-# Cashflow Management - Artificial Intelligence
+# Artificial Intelligence Cashflow Management
 
 ## Empowering Treasury Teams with Smarter Forecasting
 

@@ -28,5 +28,5 @@ permalink: /news/
 | 07-May-23 | A new API for HSBC multi-currency bank transactions is available |
 | 02-Mar-23 | Our Azure Cloud Virtual Machines have been upgraded with additional CPUs |
 | 19-Feb-23 | CTC version 23.0217 has been released |
-| 14-Feb-23 | CTM version 23.0217 has been released |
+| 14_Feb_23 | CTM version 23.0217 has been released |
 
