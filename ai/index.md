@@ -1,15 +1,13 @@
-# Smart Cashflow Management
+## Smart Cashflow Management
 
-## Empowering Treasury Teams with Smarter Forecasting
-
+### Empowering Treasury Teams with Smarter Cash Managemen Forecasting using Artificial Intelligence
 CAPIX introduces the next generation in corporate treasury management: **AI-enhanced cashflow forecasting**. Designed for multinational businesses with complex, multi-currency operations, our new forecasting module leverages cutting-edge artificial intelligence models to improve the accuracy, adaptability, and confidence of your treasury forecasts.
 
 Traditionally, cashflow forecasting has relied on rule-based models and historical averages that often fall short in today's dynamic economic environment. With the rise of automation and machine learning, there's a better way to gain clarity into your future liquidity positions — and CAPIX is bringing it to your treasury.
 
 ---
 
-## How It Works
-
+### How It Works
 Our AI solution integrates directly with your existing ERP systems, automatically ingesting and harmonizing financial data such as:
 
 - Accounts Payable
@@ -41,8 +39,7 @@ The system then applies a **hybrid AI model** — combining deep learning and ma
 
 ---
 
-## Key Benefits
-
+### Key Benefits
 - 🔮 **More Accurate Forecasts**  
   Learn from historical trends, current inputs, and external signals to produce forecasts that evolve with your business.
 
@@ -60,8 +57,7 @@ The system then applies a **hybrid AI model** — combining deep learning and ma
 
 ---
 
-## Learn More
-
+### Learn More
 Want to see the AI forecast module in action? Contact CAPIX for a personalized demonstration or visit [www.capix.net](https://www.capix.net).
 
 _CAPIX – empowering better decisions through intelligent treasury solutions._
