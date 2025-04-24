@@ -7,6 +7,7 @@ permalink: /news/
 ## News
 
 ### CAPIX News and Updates
+
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |      Details      |
 |----------|-------------|
 | 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress|
