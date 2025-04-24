@@ -5,7 +5,7 @@ subtitle: Contact details for CAPIX
 permalink: /contact/
 ---
 
-### Contact Us
+### Contact CAPIX Treasury Software
 
 | Contact | Details |
 |:----------|------------- |

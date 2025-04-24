@@ -4,9 +4,10 @@ title: Support
 subtitle: Software Support Tracking
 permalink: /support/
 ---
-## Enter Software Support Issue
+## Software Support Ticket
 
-<table style="float: left;">
+## Enter Software Support issue details here
+<table style="float: left; width: 500px">
 <tbody>
 <tr>
 <td><label>Name:</label></td>
@@ -14,11 +15,11 @@ permalink: /support/
 </tr>
 <tr>
 <td><label>Email:</label></td>
-<td><input style="cursor: pointer;" name="email" type="email" /></td>
+<td><input name="email" type="email" /></td>
 </tr>
 <tr>
 <td><label>Software Issue:</label></td>
-<td><textarea name="message"></textarea></td>
+<td><textarea name="message" style="height: 80px; width: 400px;"></textarea></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -30,4 +31,3 @@ permalink: /support/
 </tr>
 </tbody>
 </table>
-
