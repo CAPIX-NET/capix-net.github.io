@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: About CAPIX Treasury Software
 subtitle: About CAPIX
 permalink: /about/
 ---
-## About CAPIX Treasury Software
-
 ### CAPIX History
 CAPIX was founded in Melbourne Australia during 1991 by a small team of financial markets technology professionals. Thirty years and over a hundred projects later, we continue our dedication to this ever-changing and intellectually challenging sector.
 
