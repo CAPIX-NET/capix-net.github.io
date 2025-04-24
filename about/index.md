@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About CAPIX Treasury Software
-subtitle: About CAPIX
+title: About
+subtitle: About CAPIX Treasury Software
 permalink: /about/
 ---
 ### CAPIX History

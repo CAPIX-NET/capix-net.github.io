@@ -2,9 +2,9 @@
 layout: page
 title: Values
 subtitle: What we believe
-permalink: /ai/
+permalink: /values/
 ---
-### subtitle: What we believe
+### What we believe
 
 **Customers First** To be a successful company, we believe that the basics of running a business are what will win our customers’ time, money and trust. And that means great service, honest pricing and user-focused improvements.
 
