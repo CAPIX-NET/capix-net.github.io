@@ -1,7 +1,10 @@
 ---
-title: "Establishing and Australina Cryptocurrency Exchange"
-date: "2024-04-22"
+layout: page
+title: Establishing and Australian Cryptocurrency Exchange
+subtitle: CAPIX Software Solutions
+permalink: /exchange/
 ---
+
 CAPIX has been delivering software solutions for the treasury sector since 1991. We’ve accumulated world-class expertise in the capital and financial markets.
 
 The Block Chain and Crypto coin ecosystem started around 2014 as a technical novelty for computer enthusiasts.

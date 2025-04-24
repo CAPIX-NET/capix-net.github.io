@@ -2,7 +2,6 @@
 layout: page
 title: About
 subtitle: About CAPIX
-navigation_weight: 2
 permalink: /about/
 ---
 

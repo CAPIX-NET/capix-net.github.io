@@ -1,7 +1,8 @@
 ---
+layout: page
 title: "CAPIX Investment Manager™ (CIM™)"
-date: "2018-08-30"
-coverImage: "ctm-bg.jpg"
+subtitle: CAPIX Software Solutions
+permalink: /cim/
 ---
 ## CAPIX Investment Manager (CIM™)
 CAPIX Investment Manager™ (CIM™) is a Microsoft Windows® based, m​ulti-user, integrated treasury system. CIM is designed specifically for small to medium sized modern investment managers.

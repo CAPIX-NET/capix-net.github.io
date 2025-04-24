@@ -1,7 +1,8 @@
 ---
-title: "CAPIX Treasury Centre™ (CTC™)"
-date: "2018-08-30"
-coverImage: "pantone300.gif"
+layout: page
+title: CAPIX Treasury Centre™ (CTC™)
+subtitle: CAPIX Software Solutions
+permalink: /ctc/
 ---
 ## ​CAPIX Treasury Centre™ (CTC™)
 ​CAPIX Treasury Centre™ (CTC™) is a Microsoft Windows® based, m​ulti-user, integrated treasury system. CTC is designed specifically for small to medium sized modern corporate treasuries.

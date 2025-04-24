@@ -1,7 +1,8 @@
 ---
-title: "CAPIX Cloud Treasury™ (CCT™)​​​​​"
-date: "2019-04-20"
-coverImage: "ctm-bg.jpg"
+layout: page
+title: CAPIX Cloud Treasury™ (CCT™)​​​​​
+subtitle: CAPIX Cloud Treasury (CCT™)
+permalink: /cct/
 ---
 ## CAPIX Cloud Treasury (CCT™)
 CCT™ is IAS 39 compliant and has advanced cash-management capabilities. CCT™ automates deal capture and improves the accounting and administration of treasury operations. CCT™ supports trading in a broad range or financial securities and derivatives, including Money Market, Forex, Fixed Inte​rest, Swaps and Options.

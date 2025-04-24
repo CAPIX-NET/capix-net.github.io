@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 subtitle: Contact details for CAPIX
-navigation_weight: 2
 permalink: /contact/
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Products
 subtitle: CAPIX Software Solutions
-navigation_weight: 2
 permalink: /products/
 ---
 ## Our Software Solutions

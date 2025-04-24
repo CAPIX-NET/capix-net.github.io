@@ -2,7 +2,6 @@
 layout: page
 title: Services
 subtitle: CAPIX Professional Services
-navigation_weight: 2
 permalink: /services/
 ---
 
