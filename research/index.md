@@ -8,7 +8,7 @@ permalink: /news/
 
 ### CAPIX News and Updates
 
-|   Date   |      Details      |
+|    Date     |      Details      |
 |----------|-------------|
 | 24-Dec-25 | The Prophet AI (by Meta) has shown great promise modelling cash flows with strong seasonal patterns (weekly, monthly, quarterly, yearly cycles). |
 | 06-Jul-25 | More and more we have been moving from Microsoft technology to Python to take advantage of AI libraries such as TensorFlow & PyTorch |
