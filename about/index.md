@@ -37,3 +37,4 @@ Our Values and What We Believe -> [Learn More](https://capix.net/values)
 | 2018 | CTM and CTC Blockchain support |
 | 2020 | First Peatio exchange consulting client in Canada |
 | 2023 | Project for implementing AI Cash Forecasting |
+| 2025 | CAPIX continues to earn a reputation in the field of AI Quantitative Analysis and Forecasting |
