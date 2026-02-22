@@ -8,8 +8,10 @@ permalink: /news/
 
 ### CAPIX News and Updates
 
-|    Date __  |      Details      |
+|    Date __   |      Details      |
 |----------|-------------|
+| 15-Feb-26 | With the rise of Agentic AI, we have re-modeled our cashflow forcasting and liquidity management tools to take advantage of new capabilities that will change te landscape or coporate treasury management. |
+| 20-Jan-26 | The AI sector continues to evolve at a spped we have never seen before. Agentic AI with tools such as OpenClaw will have a massive future. |
 | 24-Dec-25 | The Prophet AI (by Meta) has shown great promise modelling cash flows with strong seasonal patterns (weekly, monthly, quarterly, yearly cycles). |
 | 06-Jul-25 | More and more we have been moving from Microsoft technology to Python to take advantage of AI libraries such as TensorFlow & PyTorch |
 | 22-Mar-25 | Intgration and testing NeuralProphet for time-series data is in progress |
