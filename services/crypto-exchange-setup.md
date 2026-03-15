@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Establishing and Australian Cryptocurrency Exchange
+title: Establishing an Australian Cryptocurrency Exchange
 subtitle: CAPIX Software Solutions
 permalink: /exchange/
 ---

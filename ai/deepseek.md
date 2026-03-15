@@ -1,3 +1,9 @@
+---
+layout: page
+title: DeepSeek AI Cashflow Roadmap
+permalink: /ai/deepseek/
+---
+
 Here’s a **step-by-step implementation roadmap** for CAPIX to integrate AI into cash flow forecasting, covering data, model development, deployment, and continuous improvement.
 
 ---
@@ -222,7 +228,7 @@ Here’s a **sample Jupyter notebook** for the XGBoost MVP cash flow forecasting
 ---
 
 ### **📊 Sample Jupyter Notebook: XGBoost Cash Flow Forecast (MVP)**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/yourusername/xyz123/xgboost-cashflow-mvp.ipynb)
+**XGBoost Cash Flow Forecast (MVP)**
 
 #### **1. Data Prep (SAP/Oracle ERP Data)**
 ```python

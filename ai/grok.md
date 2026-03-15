@@ -1,3 +1,9 @@
+---
+layout: page
+title: Grok AI Cashflow Strategy
+permalink: /ai/grok/
+---
+
 To develop an AI-powered solution for improving cashflow forecasting in CAPIX's software, the goal is to leverage historical and real-time financial data (from ERP systems) to predict future cashflows across multiple currencies with high accuracy. The solution should handle complex patterns, seasonality, and external factors like exchange rate fluctuations. Below, I outline the best AI model types, tools, and frameworks for this use case, considering CAPIX's requirements for corporate treasury operations.
 
 ### Recommended AI Model Types

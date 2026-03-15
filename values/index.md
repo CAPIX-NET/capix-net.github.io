@@ -8,7 +8,7 @@ permalink: /values/
 
 **Customers First** To be a successful company, we believe that the basics of running a business are what will win our customers’ time, money and trust. And that means great service, honest pricing and user-focused improvements.
 
-**Small is Mighty** The leaner you are, the less obstacles stand in the way for change. That’s why we’ve put everything that isn’t essential to our business in the Cloud. It makes economic sense, keeps us flexible, and empowers us to go up against giants.\[/vc\_column\_text\]\[vc\_column\_text\]![](images/flag-post.png) 
+**Small is Mighty** The leaner you are, the less obstacles stand in the way for change. That’s why we’ve put everything that isn’t essential to our business in the Cloud. It makes economic sense, keeps us flexible, and empowers us to go up against giants.
 
 **Celebrate Change** We are a part of one of the biggest changes to the telecommunications industry in decades – and we love it. We embrace technology and use it to create true value for our customers by doing things a little bit differently.
 

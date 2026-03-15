@@ -26,7 +26,7 @@ url: "https://www.capix.net" # the base hostname & protocol for your site, e.g. 
 twitter_username: CapixTreasury
 github_username:  capix-net
 
-avatar: "/favicon.png"
+#avatar: "/favicon.png"
 
 # Your name to show in the footer
 author: CAPIX
@@ -78,13 +78,12 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - screenshot.png
   - docs/
+  - CLAUDE.md
+  - jekyll_website_notes.md
 
 # --- Footer social media links --- #
 
@@ -132,9 +131,6 @@ excerpt_separator: <!--more-->
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -171,10 +167,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-navbar-img: /assets/img/capix_logo.png
-footer-img: "/assets/img/capix_logo.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/navbar-logo.jpg"
+footer-img: "/assets/footer-logo.jpg"
+page-img: "/assets/CAPIX_Original.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -200,27 +195,3 @@ footer-img: "/assets/img/capix_logo.png"
 
 # Google Tag Manager ID
 #gtm: ""
-
-
-
-# --- Colours / background image --- #
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-#navbar-col: "#EAEAEA"
-#navbar-text-col: "#404040"
-#navbar-border-col: "#DDDDDD"
-#page-col: "#FFFFFF"
-#text-col: "#404040"
-#link-col: "#008AFF"
-#hover-col: "#0085A1"
-#footer-col: "#EAEAEA"
-#footer-text-col: "#777777"
-#footer-link-col: "#404040"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-
-navbar-img: "/assets/navbar-logo.jpg"
-footer-img: "/assets/footer-logo.jpg"
-page-img: "/assets/CAPIX_Original.png"

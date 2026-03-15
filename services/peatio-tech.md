@@ -1,4 +1,5 @@
 ---
+layout: page
 title: CAPIX is the Asia-Pacific Partner for Helios Peatio.tech
 date: 2019-04-22
 ---
