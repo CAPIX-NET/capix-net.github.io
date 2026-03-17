@@ -2,7 +2,16 @@
   "permissions": {
     "allow": [
       "Bash(find:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "WebSearch",
+      "WebFetch(domain:shenghaohuang.com)",
+      "WebFetch(domain:erpsoftwareblog.com)",
+      "WebFetch(domain:techcommunity.microsoft.com)",
+      "WebFetch(domain:www.gapvelocity.ai)",
+      "WebFetch(domain:www.mobilize.net)",
+      "WebFetch(domain:www.fecher.net)",
+      "WebFetch(domain:www.replay.build)",
+      "WebFetch(domain:antrow.com)"
     ]
   }
 }
