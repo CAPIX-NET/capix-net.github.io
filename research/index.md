@@ -11,6 +11,7 @@ permalink: /research/
 
 |    Date    |      Details      |
 |----------|-------------|
+| 23-Mar-26 | CAPIX publishes article on [AI Agents for Autonomous Cashflow Management](/ai/agents/) — applying specialist AI expertise to build treasury agents that manage cashflows independently. |
 | 15-Feb-26 | With the rise of Agentic AI, we have re-modeled our cashflow forecasting and liquidity management tools to take advantage of new capabilities that will change the landscape of corporate treasury management. |
 | 20-Jan-26 | The AI sector continues to evolve at a speed we have never seen before. Agentic AI with tools such as OpenClaw will have a massive future. |
 | 24-Dec-25 | The Prophet AI (by Meta) has shown great promise modelling cash flows with strong seasonal patterns (weekly, monthly, quarterly, yearly cycles). |

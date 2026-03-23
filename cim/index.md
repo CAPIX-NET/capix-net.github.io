@@ -2,7 +2,7 @@
 layout: page
 title: "CAPIX Investment Manager™ (CIM™)"
 subtitle: Investment and Funds Management Software
-description: CAPIX Investment Manager (CIM) — a Microsoft Windows-based multi-user system for investment and funds managers, with IAS 39 compliance and advanced portfolio management.
+description: CAPIX Investment Manager (CIM) — a Microsoft-based multi-user system for investment and funds managers, compatible with Dynamics 365, SAP and other ERPs, with IAS 39 compliance and advanced portfolio management.
 permalink: /cim/
 ---
 ## CAPIX Investment Manager (CIM™)
@@ -19,4 +19,7 @@ CIM provides a rich Windows Desktop environment and experience. Microsoft Office
 CIM supports a wide range of financial instruments across multiple asset classes, enabling investment managers to consolidate their portfolio management into a single integrated system.
 
 ### Cloud hosting available
-CIM can be deployed on-premises or hosted in the Microsoft Azure cloud. Cloud hosting simplifies infrastructure management — CAPIX manages and supports both the software and the Azure cloud environment on your behalf.
+CIM can be deployed on-premises or hosted on Microsoft Azure through our cloud partnership. Cloud hosting simplifies infrastructure management — CAPIX manages and supports both the software and the Azure cloud environment on your behalf.
+
+### ERP Integration
+CIM is built on Microsoft technology and designed to work alongside your existing ERP platform. Whether you run **Microsoft Dynamics 365**, **SAP**, **FinanceOne** or another enterprise system, investment data can flow between CIM and your ERP for consolidated portfolio and financial reporting.

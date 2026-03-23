@@ -2,7 +2,7 @@
 layout: page
 title: CAPIX Cloud Treasury™ (CCT™)​​​​​
 subtitle: Cloud-Based Treasury Management
-description: CAPIX Cloud Treasury (CCT) — a cloud-based corporate treasury solution on Microsoft Azure with IAS 39 compliance and advanced cash management.
+description: CAPIX Cloud Treasury (CCT) — a cloud-based corporate treasury solution hosted on Microsoft Azure through our cloud partnership, compatible with Dynamics 365, SAP and other ERPs.
 permalink: /cct/
 ---
 ## CAPIX Cloud Treasury (CCT™)
@@ -10,11 +10,18 @@ CCT™ is IAS 39 compliant and has advanced cash-management capabilities. CCT™
 
 CAPIX recognises that Cash Management is the core function of corporate treasury operations and CCT has advanced Cash Flow forecasting and management functions.
 
+![Cloud Benefits](/assets/CloudBenefits.jpg)
+
+![Microsoft Azure](/assets/Azure_logo.1.0.png)
+
 #### Simplify your infrastructure
-Our app. Microsoft cloud. That means no hassles. We take care of the hardware and scaling for you so that you can easily meet the dynamic needs of your business. There’s no need to invest money and time maintaining and upgrading your on-premises servers. CAPIX manages and supports both the Treasury software solution and the Azure cloud infrastructure.
+Our app. Microsoft cloud. Through our partnership with Microsoft Azure, we take care of the hardware and scaling for you so that you can easily meet the dynamic needs of your business. There’s no need to invest money and time maintaining and upgrading your on-premises servers. CAPIX manages and supports both the Treasury software solution and the Azure cloud infrastructure.
 
 #### Enjoy a rich desktop experience
 Your treasury system is delivered effortlessly, quickly and simple; yet still provides a rich Windows Desktop environment and experience. Microsoft Office tools such as Excel and Word sit side-by-side with your treasury software, giving you a powerful set of productivity tools to enable the running of a modern treasury operation.
 
 #### Centralize your apps, help secure your data
 Centralize and secure your data on the trusted and protected Azure platform. The treasury software and data stay in the cloud, helping to reduce the risk of information loss from lost and stolen devices. Designed for fault tolerance, it’s the platform that leading governments, financial services organizations, and companies around the world rely on. So can you. Plus, software updates are quicker as they only need to be updated in Azure.
+
+#### ERP Integration
+Hosted on Microsoft Azure through our cloud partnership, CCT shares the same cloud platform as Dynamics 365 and is designed to integrate with your existing ERP. Whether you run **Microsoft Dynamics 365**, **SAP**, **FinanceOne** or another enterprise system, treasury data flows seamlessly between CCT and your ERP for unified cash visibility.

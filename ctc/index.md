@@ -2,7 +2,7 @@
 layout: page
 title: CAPIX Treasury Centre™ (CTC™)
 subtitle: Enterprise Treasury Management Software
-description: CAPIX Treasury Centre (CTC) — an enterprise-scale multi-user treasury system for larger treasury operations, with IAS 39 compliance and advanced cash management.
+description: CAPIX Treasury Centre (CTC) — an enterprise-scale multi-user treasury system compatible with Dynamics 365, SAP and other ERPs, with IAS 39 compliance and advanced cash management.
 permalink: /ctc/
 ---
 ## ​CAPIX Treasury Centre™ (CTC™)
@@ -13,10 +13,13 @@ CTC™ is IAS 39 compliant and has advanced cash-management capabilities. CTC™
 CAPIX recognises that Cash Management is the core function of corporate treasury operations and CTC has advanced Cash Flow forecasting and management functions.
 
 #### Simplify your infrastructure
-Our app. Microsoft cloud. That means no hassles. We take care of the hardware and scaling for you so that you can easily meet the dynamic needs of your business. There’s no need to invest money and time maintaining and upgrading your on-premises servers. CAPIX manages and supports both the Treasury software solution and the Azure cloud infrastructure.
+Our app. Microsoft cloud. Through our partnership with Microsoft Azure, we take care of the hardware and scaling for you so that you can easily meet the dynamic needs of your business. There’s no need to invest money and time maintaining and upgrading your on-premises servers. CAPIX manages and supports both the Treasury software solution and the Azure cloud infrastructure.
 
 #### Enjoy a rich desktop experience
 Your treasury system is delivered effortlessly, quickly and simple; yet still provides a rich Windows Desktop environment and experience. Microsoft Office tools such as Excel and Word sit side-by-side with your treasury software, giving you a powerful set of productivity tools to enable the running of a modern treasury operation.
 
 #### Centralize your apps, help secure your data
 Centralize and secure your data on the trusted and protected Azure platform. The treasury software and data stay in the cloud, helping to reduce the risk of information loss from lost and stolen devices. Designed for fault tolerance, it’s the platform that leading governments, financial services organizations, and companies around the world rely on. So can you. Plus, software updates are quicker as they only need to be updated in Azure.
+
+#### ERP Integration
+CTC is built on Microsoft technology and designed to work alongside your existing ERP platform. Whether you run **Microsoft Dynamics 365**, **SAP**, **FinanceOne** or another enterprise system, treasury data can flow between CTC and your ERP, enabling unified cash visibility across your organisation.

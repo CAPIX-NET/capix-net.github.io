@@ -20,7 +20,7 @@
 
 title: CAPIX Treasury Software 
 email: info@capix.net
-description: CAPIX provides software solutions and services for modern treasury operations.
+description: CAPIX provides Microsoft-based treasury software designed for integration with Dynamics 365, SAP and other leading ERP platforms.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.capix.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CapixTreasury
@@ -162,7 +162,7 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#0078D4"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
