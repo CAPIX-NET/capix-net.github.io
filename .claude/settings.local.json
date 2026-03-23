@@ -11,7 +11,8 @@
       "WebFetch(domain:www.mobilize.net)",
       "WebFetch(domain:www.fecher.net)",
       "WebFetch(domain:www.replay.build)",
-      "WebFetch(domain:antrow.com)"
+      "WebFetch(domain:antrow.com)",
+      "Bash(grep -n \"placeholder\\\\|TODO\\\\|FIXME\" /c/storage/git/capix/capix-net.github.io --include=*.md -r)"
     ]
   }
 }

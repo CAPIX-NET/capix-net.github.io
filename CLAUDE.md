@@ -21,14 +21,16 @@ There are no tests, linters, or CI workflows. Deployment is automatic via GitHub
 
 - **Theme**: minima (not overridden locally — no `_layouts/`, `_includes/`, or `_sass/` directories). All layout customization is via `_config.yml` settings.
 - **Content**: All pages are Markdown with YAML front matter. No blog posts collection (`_posts/`), no data files (`_data/`).
-- **Styling**: Theme colors/images are configured in `_config.yml` (navbar, footer, page background). A legacy `assets/CAPIX.css` exists but is not the primary styling mechanism.
+- **Styling**: Theme colors/images are configured in `_config.yml` (navbar, footer, page background). `assets/CAPIX.css` is a legacy file from the old site — not referenced by the minima theme.
+- **Front matter pattern**: Content pages use `layout: page` with `title`, `subtitle`, `description` (for SEO), and `permalink`.
 
 ## Key Configuration (_config.yml)
 
 - Navigation order is explicitly set via `header_pages` — adding a new top-level page requires updating this list.
-- `_config.yml` has duplicate color/image sections at the bottom that override earlier values (lines ~206-227 override ~160-177). The **last values win**.
+- Colors (navbar, footer, page, text, links) and background images (navbar-img, footer-img, page-img) are configured in the bottom half of `_config.yml`.
 - Excerpt separator is `<!--more-->` with length of 50 words.
 - Plugins: jekyll-feed, jekyll-seo-tag, jekyll-paginate, jekyll-sitemap, jekyll-github-metadata.
+- `CLAUDE.md` is in the `exclude:` list and won't appear on the built site.
 
 ## Content Sections
 
@@ -40,6 +42,8 @@ Additional: `staff/`, `values/`, `research/`.
 
 ## Important Notes
 
-- The CNAME file (mapping to capix.net) is currently deleted in the working tree — this must exist for the custom domain to work on GitHub Pages.
+- **CNAME**: The `CNAME` file maps the site to `capix.net`. Do not delete it — GitHub Pages needs it for the custom domain.
 - Changes to `_config.yml` require restarting `jekyll serve` (it is not auto-reloaded).
 - Files listed under `exclude:` in `_config.yml` are not processed into the built site (Gemfile, README.md, LICENSE, docs/, etc.).
+- **Root-level standalone `.md` files** (`dynamics-365.md`, `copilot-modernization.md`, `Web-enabled-treasury-application-project.md`) are internal project documents without YAML front matter. They are excluded in `_config.yml` so Jekyll will not process them.
+- Use **relative links** (e.g. `/products/`) not absolute URLs (e.g. `https://capix.net/products/`) when linking between pages.

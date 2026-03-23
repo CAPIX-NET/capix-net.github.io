@@ -1,5 +1,5 @@
 # capix.net
 
-Welcome to the CAPIX Treasury Software website https://www.capix-net
+CAPIX Treasury Software company website — a Jekyll static site hosted on GitHub Pages at [capix.net](https://www.capix.net).
 
-We are currently implementing a migration and upgrade to a new web platform, please check back soon.
+CAPIX provides software solutions and services for modern treasury operations, serving banks, brokers, investment managers and corporate treasuries.

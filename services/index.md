@@ -2,12 +2,13 @@
 layout: page
 title: Services
 subtitle: CAPIX Professional Services
+description: CAPIX professional services — analysis, consulting, project management, software customisation and contract software engineering for capital markets.
 permalink: /services/
 ---
 
 ### Analysis, Consulting and Project Management
 
-CAPIX offers a complete range of Professional Services to assi​st with the​ implementation of CAPIX software. Over the past twenty years we have sucessfully completed over a hundred implementation projects for clients in eight countries.
+CAPIX offers a complete range of Professional Services to assist with the implementation of CAPIX software. Over the past twenty years we have successfully completed over a hundred implementation projects for clients in eight countries.
 
 Our extensive domain kn​owledge within the treasury and securities sector enables us to apply the expertise needed for even the most complex and detailed business requirements.
 

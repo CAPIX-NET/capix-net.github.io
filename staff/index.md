@@ -2,6 +2,7 @@
 layout: page
 title: CAPIX Staff
 subtitle: Introduction to our key staff
+description: Meet the CAPIX team — experienced financial technology specialists delivering treasury software solutions across four continents.
 permalink: /staff/
 ---
 ### Introduction to our key staff

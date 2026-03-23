@@ -1,10 +1,11 @@
 ---
 layout: page
 title: ChatGPT AI Cashflow Strategy
+description: AI strategy for cashflow forecasting using deep learning, time series models and contextual data for corporate treasury operations.
 permalink: /ai/chatgpt/
 ---
 
-To improve cashflow forecasting for CAPIX’s corporate treasury clients using AI, the best approach combines time series forecasting with contextual data modeling. Here’s a comprehensive strategy including the most suitable models and tools:
+To improve cashflow forecasting for corporate treasury clients using AI, the best approach combines time series forecasting with contextual data modeling. Here is a comprehensive strategy including the most suitable models and tools:
 
 ---
 
@@ -79,4 +80,4 @@ Integration into CAPIX Software (API or embedded module)
 
 ---
 
-Would you like a technical prototype or architecture diagram to show your development team?
+[Contact CAPIX](/contact/) to discuss a technical prototype or architecture diagram for your treasury team.

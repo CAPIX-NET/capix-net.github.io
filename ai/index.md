@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AI Cashflow Management
-subtitle: CAPIX Software Solutions
-navigation_weight: 2
+subtitle: AI-Enhanced Treasury Forecasting
+description: CAPIX AI-enhanced cashflow forecasting — leveraging deep learning and machine learning for accurate multi-horizon treasury predictions.
 permalink: /ai/
 ---
 ## Smart Cashflow Management
@@ -64,6 +64,6 @@ The system then applies a **hybrid AI model** — combining deep learning and ma
 ---
 
 ### Learn More
-Want to see the AI forecast module in action? Contact CAPIX for a personalized demonstration or visit [www.capix.net](https://www.capix.net).
+Want to see the AI forecast module in action? [Contact CAPIX](/contact/) for a personalized demonstration.
 
 _CAPIX – empowering better decisions through intelligent treasury solutions._

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CAPIX Treasury Software 
-email: support@capix.net
+email: info@capix.net
 description: CAPIX provides software solutions and services for modern treasury operations.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.capix.net" # the base hostname & protocol for your site, e.g. http://example.com
@@ -44,6 +44,7 @@ header_pages:
   - index.md
   - products/index.md
   - services/index.md
+  - ai/index.md
   - news/index.md
   - about/index.md
   - support/index.md
@@ -84,6 +85,9 @@ exclude:
   - docs/
   - CLAUDE.md
   - jekyll_website_notes.md
+  - dynamics-365.md
+  - copilot-modernization.md
+  - Web-enabled-treasury-application-project.md
 
 # --- Footer social media links --- #
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: CAPIX Treasury Centre™ (CTC™)
-subtitle: CAPIX Software Solutions
+subtitle: Enterprise Treasury Management Software
+description: CAPIX Treasury Centre (CTC) — an enterprise-scale multi-user treasury system for larger treasury operations, with IAS 39 compliance and advanced cash management.
 permalink: /ctc/
 ---
 ## ​CAPIX Treasury Centre™ (CTC™)

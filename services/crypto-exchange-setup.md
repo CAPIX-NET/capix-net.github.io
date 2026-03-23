@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Establishing an Australian Cryptocurrency Exchange
-subtitle: CAPIX Software Solutions
+subtitle: Blockchain and Cryptocurrency Exchange Consulting
+description: CAPIX provides consulting services for establishing cryptocurrency exchanges, leveraging decades of financial markets expertise.
 permalink: /exchange/
 ---
 

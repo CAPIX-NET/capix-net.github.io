@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Contact details for CAPIX
+description: Contact CAPIX Treasury Software — phone, email and office address in Melbourne, Australia.
 permalink: /contact/
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: CAPIX Treasury Manager™ (CTM™)​​​​​
-subtitle: CAPIX Treasury Manager™ (CTM™)
+subtitle: Corporate Treasury Management Software
+description: CAPIX Treasury Manager (CTM) — a Microsoft Windows-based multi-user treasury system for corporate treasuries, with IAS 39 compliance and advanced cash management.
 permalink: /ctm/
 ---
 ## CAPIX Treasury Manager™ (CTM™)

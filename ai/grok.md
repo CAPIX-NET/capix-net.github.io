@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grok AI Cashflow Strategy
+description: AI-powered cashflow forecasting strategy using RNNs, transformers and ensemble models for multi-currency corporate treasury operations.
 permalink: /ai/grok/
 ---
 

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: CAPIX is the Asia-Pacific Partner for Helios Peatio.tech
+subtitle: Blockchain and Cryptocurrency Exchange Consulting
+description: CAPIX partners with Helios Peatio.tech to deliver cryptocurrency exchange consulting services across the Asia-Pacific region.
 date: 2019-04-22
+permalink: /services/peatio-tech/
 ---
 CAPIX has been delivering software solutions for the treasury sector since 1991. We’ve accumulated world-class expertise in the capital and financial markets.
 

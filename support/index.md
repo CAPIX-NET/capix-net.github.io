@@ -2,32 +2,28 @@
 layout: page
 title: Support
 subtitle: Software Support Tracking
+description: CAPIX software support — log issues, access release notes, and contact the support team.
 permalink: /support/
 ---
-## Software Support Ticket
+## Software Support
 
-## Enter Software Support issue details here
-<table style="float: left; width: 500px">
-<tbody>
-<tr>
-<td><label>Name:</label></td>
-<td><input name="name" type="text" /></td>
-</tr>
-<tr>
-<td><label>Email:</label></td>
-<td><input name="email" type="email" /></td>
-</tr>
-<tr>
-<td><label>Software Issue:</label></td>
-<td><textarea name="message" style="height: 80px; width: 400px;"></textarea></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td><input type="submit" value="Send" /></td>
-</tr>
-</tbody>
-</table>
+### Contact Support
+
+To log a software support issue or enquiry, please contact the CAPIX support team:
+
+| Contact | Details |
+|:----------|-------------|
+| Email | [support@capix.net](mailto:support@capix.net) |
+| Phone (toll-free Australia) | 1300 65 0055 |
+| Phone (International) | +613 9521 2888 |
+
+### What to Include
+
+When reporting an issue, please provide:
+
+- Your name and organisation
+- The CAPIX product and version number (e.g. CTM 23.0217)
+- A description of the issue, including any error messages
+- Steps to reproduce the problem
+
+Our support team will respond within one business day.

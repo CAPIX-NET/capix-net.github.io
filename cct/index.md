@@ -1,7 +1,8 @@
 ---
 layout: page
 title: CAPIX Cloud Treasury™ (CCT™)​​​​​
-subtitle: CAPIX Cloud Treasury (CCT™)
+subtitle: Cloud-Based Treasury Management
+description: CAPIX Cloud Treasury (CCT) — a cloud-based corporate treasury solution on Microsoft Azure with IAS 39 compliance and advanced cash management.
 permalink: /cct/
 ---
 ## CAPIX Cloud Treasury (CCT™)

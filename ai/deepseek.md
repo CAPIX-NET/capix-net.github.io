@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DeepSeek AI Cashflow Roadmap
+description: Step-by-step implementation roadmap for integrating AI into cash flow forecasting — covering data, model development, deployment and continuous improvement.
 permalink: /ai/deepseek/
 ---
 
