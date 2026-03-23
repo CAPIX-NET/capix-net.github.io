@@ -3,9 +3,10 @@ layout: page
 title: ERP Integration
 subtitle: Dynamics 365 and Enterprise Platform Integration
 description: CAPIX treasury software integrates with Microsoft Dynamics 365, SAP, FinanceOne and other leading ERP platforms for seamless corporate treasury operations.
+image: /assets/img/CAPIX_large_logo.jpg
 permalink: /dynamics-365/
 ---
-![CAPIX ERP Integration](/assets/erp-integration-diagram.svg)
+![CAPIX treasury software ERP integration diagram — connecting with Dynamics 365, SAP and FinanceOne](/assets/erp-integration-diagram.svg)
 
 ## ERP Integration
 
@@ -13,7 +14,7 @@ CAPIX treasury software is built on Microsoft technology and designed to integra
 
 ### Microsoft Dynamics 365
 
-![Microsoft Azure](/assets/Azure_logo.1.0.png)
+![Microsoft Azure cloud platform — shared technology stack with Dynamics 365](/assets/Azure_logo.1.0.png)
 
 As a Microsoft Development Partner, CAPIX has deep expertise in the Microsoft technology stack that underpins Dynamics 365. Our treasury software shares the same foundational technologies:
 

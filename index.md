@@ -3,9 +3,10 @@ layout: page
 title: Home
 subtitle: Welcome - CAPIX Treasury Software
 description: CAPIX Treasury Software provides Microsoft-based packaged software and professional services for corporate treasuries, banks, brokers and investment managers. Compatible with Dynamics 365, SAP and other leading ERPs.
+image: /assets/agile-illustrations.png
 permalink: /
 ---
-![Agile Treasury](/assets/agile-illustrations.png)
+![CAPIX Treasury Software — agile solutions for corporate treasury, investment management and capital markets](/assets/agile-illustrations.png)
 ### Software Products
 CAPIX Treasury Software publishes a portfolio of packaged software for the capital and financial markets. Our clients include banks, brokers, investment managers and treasury operations -> [Learn More](/products/).
 

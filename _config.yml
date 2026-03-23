@@ -18,13 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CAPIX Treasury Software 
+title: CAPIX Treasury Software
 email: info@capix.net
 description: CAPIX provides Microsoft-based treasury software designed for integration with Dynamics 365, SAP and other leading ERP platforms.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.capix.net" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
 twitter_username: CapixTreasury
 github_username:  capix-net
+image: /assets/img/CAPIX_large_logo.jpg
+
+twitter:
+  card: summary_large_image
+  username: CapixTreasury
 
 #avatar: "/favicon.png"
 
@@ -151,7 +157,7 @@ round-avatar: false
 #title-img: /path/to/image
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "treasury software, cash management, cashflow forecasting, AI treasury, Dynamics 365 treasury, SAP treasury, corporate treasury, investment management, ERP integration, Microsoft Azure, CAPIX"
 
 # --- Colours / background image --- #
 
@@ -192,7 +198,8 @@ page-img: "/assets/CAPIX_Original.png"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+# Uncomment and add your GA tracking ID to enable analytics:
+#google_analytics: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""

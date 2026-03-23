@@ -12,7 +12,10 @@
       "WebFetch(domain:www.fecher.net)",
       "WebFetch(domain:www.replay.build)",
       "WebFetch(domain:antrow.com)",
-      "Bash(grep -n \"placeholder\\\\|TODO\\\\|FIXME\" /c/storage/git/capix/capix-net.github.io --include=*.md -r)"
+      "Bash(grep -n \"placeholder\\\\|TODO\\\\|FIXME\" /c/storage/git/capix/capix-net.github.io --include=*.md -r)",
+      "Bash(sort -t: -k2 -rn)",
+      "Bash(xxd \"products/index.md\")",
+      "Bash(python3:*)"
     ]
   }
 }

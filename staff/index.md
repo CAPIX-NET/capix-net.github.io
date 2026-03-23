@@ -11,7 +11,7 @@ At CAPIX we are a team of financial technology specialists dedicated to deliveri
 Currently supporting more than fifty clients over four continents CAPIX has the experience and flexibility to operate in the modern global financial markets.
 
 ### Peter Cooney
-![Peter Cooney](/assets/Peter1-20sq-stamp.jpg)
+![Peter Cooney — CAPIX founder and financial technology consultant](/assets/Peter1-20sq-stamp.jpg)
 
 Peter Cooney started at ANZ Bank Australian Treasury back in the 1980s just as the financial markets were being deregulated and globalised.
 
@@ -27,10 +27,10 @@ For several years Adam worked in treasury technology environments including at W
 Adam manages projects and teams of analysts and programmers. He has a passion for treasury technology and building software solutions for clients.
 
 ### Leonie Green
-![Leonie Green](/assets/Leonie_Green.jpg)
+![Leonie Green — CAPIX Client Services Manager](/assets/Leonie_Green.jpg)
 
 Leonie Green is the CAPIX Client Services Manager and an advocate for the satisfaction of our clients.
 
-Usually Leonie is the first point of contact for new prospective clients. Leonie has a great eye for detail and ensures client issues are resolved and followed thru to prompt conclusion.
+Usually Leonie is the first point of contact for new prospective clients. Leonie has a great eye for detail and ensures client issues are resolved and followed through to prompt conclusion.
 
 Social Media is a passion of Leonie and she is never far away from the Twitter or Facebook "Post" button.

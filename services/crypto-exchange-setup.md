@@ -2,7 +2,7 @@
 layout: page
 title: Establishing an Australian Cryptocurrency Exchange
 subtitle: Blockchain and Cryptocurrency Exchange Consulting
-description: CAPIX provides consulting services for establishing cryptocurrency exchanges, leveraging decades of financial markets expertise.
+description: CAPIX provides consulting services for establishing Australian cryptocurrency exchanges — Peatio platform setup, blockchain smart contracts, compliance (KYC/AML) and trading system development.
 permalink: /exchange/
 ---
 
@@ -10,7 +10,7 @@ CAPIX has been delivering software solutions for the treasury sector since 1991.
 
 The Block Chain and Crypto coin ecosystem started around 2014 as a technical novelty for computer enthusiasts.
 
-Block Chain and Crypto has now matured into it’s second generation as a serious business and financial system.
+Block Chain and Crypto has now matured into its second generation as a serious business and financial system.
 
 CAPIX is uniquely positioned to assist bank, broking and corporate clients participate in this new and exciting world. Almost all Crypto broking or exchange operations are based on the “Peatio” open-source trading platform. Peatio is the name of an ancient mythical Chinese dragon.
 
@@ -22,13 +22,13 @@ CAPIX has the business, operations and technical expertise to assist building a 
 
 Spot, Forward, CFD, Options, Exotics – we know Forex.
 
-Past Forex projects have including Arbitrage Engines, interfaces to Liquidity Providers and High Frequency Trading.
+Past Forex projects have included Arbitrage Engines, interfaces to Liquidity Providers and High Frequency Trading.
 
 CAPIX can apply the efficiency and sophistication of the Forex markets to Block Chain and Crypto projects. The Ethereum Block Chain and ecosystem represents the second generation and wider application of the initial Bitcoin network.
 
 Ethereum allows “Smart Contracts” to be written in the Solidity programming language. Almost all of the thousands of new crypto coins and tokens are implemented as Ethereum Smart Contracts. Most common are the ERC20 and ERC721 tokens.
 
-CAPIX has the experience and expertise to develop Smart Contracts to allow your business to join the Block Chain. Payment systems have had changed rapidly over the past decade and the wide-spread adoption of Block Chain technology has accelerated this.
+CAPIX has the experience and expertise to develop Smart Contracts to allow your business to join the Block Chain. Payment systems have changed rapidly over the past decade and the widespread adoption of Block Chain technology has accelerated this.
 
 While Bitcoin has proven too slow and expensive for real-time payments, newer Block Chains and Coins such as Ripple (XRP) have emerged as viable alternatives to systems such as SWIFT.
 

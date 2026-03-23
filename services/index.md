@@ -10,7 +10,7 @@ permalink: /services/
 
 CAPIX offers a complete range of Professional Services to assist with the implementation of CAPIX software. Over the past twenty years we have successfully completed over a hundred implementation projects for clients in eight countries.
 
-Our extensive domain kn​owledge within the treasury and securities sector enables us to apply the expertise needed for even the most complex and detailed business requirements.
+Our extensive domain knowledge within the treasury and securities sector enables us to apply the expertise needed for even the most complex and detailed business requirements.
 
 ### Software Customisation and Development of CAPIX products.
 
@@ -18,7 +18,7 @@ Often clients want CAPIX software customised to suit their specific requirements
 
 Much of the custom software development we perform for clients is relatively simple, such as custom reports that integrate into the CAPIX packages. The CAPIX Report Manager offers extensive flexibility, but sometimes clients require new reports and we can deliver these without fuss.
 
-On occasion we undertake more extensive projects and have even have developed whole new modules on behalf of clients.
+On occasion we undertake more extensive projects and have even developed whole new modules on behalf of clients.
 
 ### Contract Software Engineering
 

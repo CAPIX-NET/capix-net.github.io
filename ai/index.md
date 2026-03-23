@@ -3,6 +3,7 @@ layout: page
 title: AI Cashflow Management
 subtitle: AI-Enhanced Treasury Forecasting
 description: CAPIX AI-enhanced cashflow forecasting and risk management — specialist expertise in deep learning, machine learning and AI agents for autonomous treasury operations.
+image: /assets/img/CAPIX_large_logo.jpg
 permalink: /ai/
 ---
 ## Smart Cashflow Management
@@ -26,7 +27,7 @@ Our AI solution integrates directly with your existing ERP — including **Micro
 
 The system then applies a **hybrid AI model** — combining deep learning and machine learning techniques — to identify complex patterns and make accurate multi-horizon predictions.
 
-![AI Cashflow Forecasting Architecture](./CAPIX-AI-Model.svg)
+![CAPIX AI cashflow forecasting architecture — hybrid model combining LSTM, Transformer and XGBoost with ERP data ingestion](./CAPIX-AI-Model.svg)
 
 ### The Architecture at a Glance:
 

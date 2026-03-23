@@ -13,7 +13,7 @@ permalink: /values/
 
 **Celebrate Change** We are a part of one of the biggest changes to the financial markets technology industry in decades – and we love it. We embrace technology and use it to create true value for our customers by doing things a little bit differently.
 
-**Innovation not old school** We keep things running smoothly but we also want to keep improving in creative, sometimes unexpected ways. We’re always on a lookout for new and better ways of doing things, drawing inspiration from other industries and new technologies.
+**Innovation not old school** We keep things running smoothly but we also want to keep improving in creative, sometimes unexpected ways. We’re always on the lookout for new and better ways of doing things, drawing inspiration from other industries and new technologies.
 
 **Keep It Personal** We don’t enjoy dealing with a big faceless corporation and we don’t believe you do either. We want to bring a personal and people-centric approach to every touchpoint we have to interact with our customers.
 
