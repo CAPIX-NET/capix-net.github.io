@@ -15,7 +15,9 @@
       "Bash(grep -n \"placeholder\\\\|TODO\\\\|FIXME\" /c/storage/git/capix/capix-net.github.io --include=*.md -r)",
       "Bash(sort -t: -k2 -rn)",
       "Bash(xxd \"products/index.md\")",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:business.gov.au)",
+      "WebFetch(domain:www.ato.gov.au)"
     ]
   }
 }
