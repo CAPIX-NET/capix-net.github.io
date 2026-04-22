@@ -1,17 +1,8 @@
 ---
 ---
 
-@import "minima";
+$content-width: 1100px;
+$on-laptop: 1100px;
 
-body,
-.site-header,
-.site-nav,
-.page-content,
-.site-footer,
-h1, h2, h3, h4, h5, h6,
-p, a, li, td, th,
-input, textarea, button, select,
-.post-title, .post-content,
-blockquote {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
+@import "minima";
+@import "capix-custom";

@@ -1,0 +1,854 @@
+// ==========================================================================
+// CAPIX Custom Styles — extends minima theme for capix.net
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// Variables
+// --------------------------------------------------------------------------
+$capix-primary: #0078D4;
+$capix-primary-dark: #005a9e;
+$capix-primary-light: #e8f4fd;
+$capix-accent: #00a4bd;
+$capix-text: #2d3748;
+$capix-text-light: #718096;
+$capix-surface: #f7fafc;
+$capix-border: #e2e8f0;
+$capix-nav-bg: #1e3a5f;
+$capix-nav-text: #ffffff;
+$capix-footer-bg: #1a202c;
+$capix-footer-text: #a0aec0;
+$capix-radius: 8px;
+$capix-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+$capix-shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+
+// --------------------------------------------------------------------------
+// Base Overrides
+// --------------------------------------------------------------------------
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: $capix-text;
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600;
+  color: #1a202c;
+  line-height: 1.3;
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; margin-top: 2rem; }
+h3 { font-size: 1.35rem; }
+
+a {
+  color: $capix-primary;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $capix-primary-dark;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Buttons
+// --------------------------------------------------------------------------
+.btn {
+  display: inline-block;
+  padding: 0.65rem 1.5rem;
+  border-radius: $capix-radius;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border: 2px solid transparent;
+  line-height: 1.4;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: $capix-shadow;
+  }
+}
+
+.btn-primary {
+  background-color: $capix-primary;
+  color: #ffffff !important;
+  border-color: $capix-primary;
+
+  &:hover {
+    background-color: $capix-primary-dark;
+    border-color: $capix-primary-dark;
+    color: #ffffff !important;
+  }
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: $capix-primary !important;
+  border-color: $capix-primary;
+
+  &:hover {
+    background-color: $capix-primary;
+    color: #ffffff !important;
+  }
+}
+
+.btn-sm {
+  padding: 0.4rem 1rem;
+  font-size: 0.875rem;
+}
+
+.btn-light {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #ffffff !important;
+  border-color: rgba(255, 255, 255, 0.4);
+
+  &:hover {
+    background-color: #ffffff;
+    color: $capix-nav-bg !important;
+    border-color: #ffffff;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Navigation — sticky dark header
+// --------------------------------------------------------------------------
+.site-header {
+  background-color: $capix-nav-bg;
+  border-bottom: none;
+  border-top: 3px solid $capix-primary;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  min-height: 56px;
+
+  .site-title {
+    color: $capix-nav-text;
+    font-weight: 700;
+    font-size: 1.15rem;
+    letter-spacing: -0.3px;
+
+    &,
+    &:visited {
+      color: $capix-nav-text;
+    }
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .site-logo {
+    height: 30px;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+  }
+
+  .site-nav {
+    .page-link {
+      color: rgba(255, 255, 255, 0.85);
+      font-size: 0.88rem;
+      font-weight: 500;
+      line-height: 1.5;
+      padding: 0.35rem 0.6rem;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+
+      &:hover {
+        color: #ffffff;
+        background-color: rgba(255, 255, 255, 0.12);
+        text-decoration: none;
+      }
+    }
+
+    .menu-icon > svg {
+      fill: rgba(255, 255, 255, 0.85);
+    }
+
+    // Mobile nav overrides
+    @media screen and (max-width: 600px) {
+      background-color: $capix-nav-bg;
+      border: none;
+      border-radius: 0 0 $capix-radius $capix-radius;
+      box-shadow: $capix-shadow-lg;
+
+      label[for="nav-trigger"] {
+        background-color: transparent;
+      }
+
+      .trigger {
+        background-color: $capix-nav-bg;
+        border: none;
+      }
+
+      .page-link {
+        color: rgba(255, 255, 255, 0.85);
+        padding: 0.6rem 1rem;
+        margin-left: 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+        &:hover {
+          background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Hero Section
+// --------------------------------------------------------------------------
+.hero {
+  background: linear-gradient(135deg, $capix-nav-bg 0%, darken($capix-primary, 15%) 100%);
+  color: #ffffff;
+  padding: 4rem 2rem;
+  text-align: center;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 2.5rem;
+
+  h1 {
+    color: #ffffff;
+    font-size: 2.75rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -1px;
+  }
+
+  .hero-sub {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 700px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Feature Cards (homepage 3-column)
+// --------------------------------------------------------------------------
+.feature-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 0 0 3rem;
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.feature-card {
+  background: #ffffff;
+  border: 1px solid $capix-border;
+  border-top: 3px solid $capix-primary;
+  border-radius: $capix-radius;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: $capix-shadow;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $capix-shadow-lg;
+  }
+
+  &:nth-child(2) {
+    border-top-color: $capix-accent;
+  }
+
+  &:nth-child(3) {
+    border-top-color: #6b46c1;
+  }
+
+  h3 {
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
+    margin-top: 0;
+    color: #1a202c;
+  }
+
+  p {
+    color: $capix-text-light;
+    font-size: 0.93rem;
+    margin-bottom: 1.25rem;
+    line-height: 1.6;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Product Cards (products page 2-column)
+// --------------------------------------------------------------------------
+.product-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.product-card {
+  background: #ffffff;
+  border: 1px solid $capix-border;
+  border-radius: $capix-radius;
+  padding: 1.75rem;
+  transition: all 0.25s ease;
+  box-shadow: $capix-shadow;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $capix-shadow-lg;
+    border-color: $capix-primary;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+
+    a {
+      color: #1a202c;
+      &:hover { color: $capix-primary; text-decoration: none; }
+    }
+  }
+
+  p {
+    color: $capix-text-light;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  .product-tags {
+    margin-bottom: 1rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    margin-right: 0.3rem;
+    margin-bottom: 0.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  .badge-blue {
+    background-color: $capix-primary-light;
+    color: $capix-primary-dark;
+  }
+
+  .badge-green {
+    background-color: #f0fff4;
+    color: #276749;
+  }
+
+  .badge-purple {
+    background-color: #faf5ff;
+    color: #6b46c1;
+  }
+
+  .badge-teal {
+    background-color: #e6fffa;
+    color: #285e61;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Comparison Table
+// --------------------------------------------------------------------------
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2.5rem;
+  font-size: 0.88rem;
+  border-radius: $capix-radius;
+  overflow: hidden;
+  box-shadow: $capix-shadow;
+
+  thead {
+    background-color: $capix-nav-bg;
+    color: #ffffff;
+
+    th {
+      padding: 0.75rem 0.85rem;
+      text-align: center;
+      font-weight: 600;
+      font-size: 0.85rem;
+
+      &:first-child {
+        text-align: left;
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      border-bottom: 1px solid $capix-border;
+
+      &:nth-child(even) {
+        background-color: $capix-surface;
+      }
+
+      &:hover {
+        background-color: $capix-primary-light;
+      }
+    }
+
+    td {
+      padding: 0.65rem 0.85rem;
+      text-align: center;
+
+      &:first-child {
+        text-align: left;
+        font-weight: 500;
+        color: $capix-text;
+      }
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Service Sections
+// --------------------------------------------------------------------------
+.service-section {
+  background: #ffffff;
+  border: 1px solid $capix-border;
+  border-left: 4px solid $capix-primary;
+  border-radius: $capix-radius;
+  padding: 1.75rem 2rem;
+  margin-bottom: 1.25rem;
+  box-shadow: $capix-shadow;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: $capix-primary-dark;
+  }
+
+  &:nth-child(2n) {
+    border-left-color: $capix-accent;
+    &:hover { border-left-color: darken($capix-accent, 10%); }
+  }
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+
+  p {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// News Section
+// --------------------------------------------------------------------------
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-item {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid $capix-border;
+  align-items: flex-start;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.news-date {
+  flex-shrink: 0;
+  background-color: $capix-primary;
+  color: #ffffff;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+  min-width: 95px;
+  text-align: center;
+}
+
+.news-content {
+  flex: 1;
+  font-size: 0.93rem;
+  line-height: 1.6;
+  color: $capix-text;
+}
+
+details.news-archive {
+  margin-top: 1rem;
+
+  summary {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    background-color: $capix-surface;
+    border: 1px solid $capix-border;
+    border-radius: $capix-radius;
+    text-align: center;
+    font-weight: 500;
+    color: $capix-text;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.93rem;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      background-color: $capix-primary-light;
+      border-color: $capix-primary;
+      color: $capix-primary;
+    }
+  }
+
+  &[open] summary {
+    margin-bottom: 0.5rem;
+    background-color: $capix-primary-light;
+    border-color: $capix-primary;
+    color: $capix-primary;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Contact Section
+// --------------------------------------------------------------------------
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.contact-card {
+  background: #ffffff;
+  border: 1px solid $capix-border;
+  border-radius: $capix-radius;
+  padding: 1.75rem;
+  box-shadow: $capix-shadow;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.15rem;
+  }
+
+  .contact-item {
+    display: flex;
+    padding: 0.45rem 0;
+    font-size: 0.93rem;
+    gap: 0.75rem;
+
+    .label {
+      font-weight: 600;
+      min-width: 100px;
+      color: $capix-text;
+      flex-shrink: 0;
+    }
+
+    a {
+      color: $capix-primary;
+    }
+  }
+}
+
+.social-links-list {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid $capix-border;
+    border-radius: $capix-radius;
+    font-size: 0.88rem;
+    color: $capix-text;
+    transition: all 0.2s ease;
+
+    &:hover {
+      border-color: $capix-primary;
+      color: $capix-primary;
+      text-decoration: none;
+      background-color: $capix-primary-light;
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// History Table (about page)
+// --------------------------------------------------------------------------
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+
+  thead th,
+  th {
+    background-color: $capix-nav-bg;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0.7rem 1rem;
+    text-align: left;
+  }
+
+  td {
+    padding: 0.65rem 1rem;
+    border-bottom: 1px solid $capix-border;
+    vertical-align: top;
+  }
+
+  tbody tr {
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: $capix-primary-light;
+    }
+
+    &:nth-child(even) {
+      background-color: $capix-surface;
+
+      &:hover {
+        background-color: $capix-primary-light;
+      }
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Page Subtitle
+// --------------------------------------------------------------------------
+.post-subtitle {
+  font-size: 1.1rem;
+  color: $capix-text-light;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+// --------------------------------------------------------------------------
+// Staff Cards
+// --------------------------------------------------------------------------
+.post-content {
+  img {
+    border-radius: $capix-radius;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+// --------------------------------------------------------------------------
+// 404 Page
+// --------------------------------------------------------------------------
+.error-page {
+  text-align: center;
+  padding: 4rem 2rem;
+
+  .error-code {
+    font-size: 6rem;
+    font-weight: 700;
+    color: $capix-primary;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    color: $capix-text;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    color: $capix-text-light;
+    margin-bottom: 2rem;
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .error-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Footer
+// --------------------------------------------------------------------------
+.site-footer {
+  background-color: $capix-footer-bg;
+  color: $capix-footer-text;
+  border-top: 3px solid $capix-primary;
+  padding: 2.5rem 0 0;
+
+  .footer-heading {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+
+  h4 {
+    color: #ffffff;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .footer-col-wrapper {
+    color: $capix-footer-text;
+    font-size: 0.88rem;
+  }
+
+  .footer-col {
+    ul {
+      list-style: none;
+      margin-left: 0;
+    }
+
+    li {
+      margin-bottom: 0.35rem;
+    }
+
+    a {
+      color: $capix-footer-text;
+      transition: color 0.2s ease;
+
+      &:hover {
+        color: #ffffff;
+        text-decoration: none;
+      }
+    }
+
+    p {
+      color: $capix-footer-text;
+      font-size: 0.88rem;
+      line-height: 1.6;
+    }
+  }
+
+  .contact-list {
+    .p-name {
+      color: #ffffff;
+      font-weight: 500;
+    }
+
+    a.u-email {
+      color: $capix-footer-text;
+      &:hover { color: #ffffff; }
+    }
+  }
+
+  .social-media-list {
+    a {
+      color: $capix-footer-text;
+      &:hover { color: #ffffff; }
+    }
+
+    .svg-icon {
+      fill: $capix-footer-text;
+    }
+
+    li:hover .svg-icon {
+      fill: #ffffff;
+    }
+
+    .username {
+      color: $capix-footer-text;
+    }
+
+    li:hover .username {
+      color: #ffffff;
+    }
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 2rem;
+    padding: 1.25rem 0;
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.35);
+  }
+}
+
+// --------------------------------------------------------------------------
+// Responsive
+// --------------------------------------------------------------------------
+@media screen and (max-width: 600px) {
+  .hero {
+    padding: 2.5rem 1.5rem;
+
+    h1 {
+      font-size: 1.85rem;
+    }
+
+    .hero-sub {
+      font-size: 1rem;
+    }
+  }
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.35rem; }
+  h3 { font-size: 1.15rem; }
+
+  .comparison-table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .contact-item {
+    flex-direction: column;
+    gap: 0.2rem !important;
+  }
+}

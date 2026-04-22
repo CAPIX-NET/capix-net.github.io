@@ -17,7 +17,11 @@
       "Bash(xxd \"products/index.md\")",
       "Bash(python3:*)",
       "WebFetch(domain:business.gov.au)",
-      "WebFetch(domain:www.ato.gov.au)"
+      "WebFetch(domain:www.ato.gov.au)",
+      "Bash(sed 's/.*\\\\.//')",
+      "WebFetch(domain:www.capix.net)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(bundle exec *)"
     ]
   }
 }

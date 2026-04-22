@@ -3,19 +3,20 @@ layout: page
 title: About
 subtitle: About CAPIX Treasury Software
 description: CAPIX Treasury Software history and milestones — founded in Melbourne in 1991, delivering financial markets technology across eight countries.
+image: /assets/img/CAPIX_large_logo.jpg
 permalink: /about/
 ---
+
 ### CAPIX History
+
 CAPIX was founded in Melbourne, Australia during 1991 by a small team of financial markets technology professionals. Thirty years and over a hundred projects later, we continue our dedication to this ever-changing and intellectually challenging sector.
 
-Details of Key CAPIX Staff -> [Learn More](/staff/)
+<a href="/staff/" class="btn btn-sm btn-secondary">Meet Our Team &rarr;</a> &nbsp; <a href="/values/" class="btn btn-sm btn-secondary">Our Values &rarr;</a>
 
-Our Values and What We Believe -> [Learn More](/values/)
+### Milestones
 
-### CAPIX History and Milestones
-
-| Year   |      Details      |
-|----------|-------------|
+| Year | Details |
+|------|---------|
 | 1991 | CAPIX commences business, specialising in financial markets software consulting and development |
 | 1991 | First client is ANZ Bank, where we developed a software application for FX Options Risk Management |
 | 1992 | Market demand and supply modelling software project for the Hong Kong Energy regulator |

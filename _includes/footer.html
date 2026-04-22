@@ -1,0 +1,45 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h4>Contact</h4>
+        <ul class="contact-list">
+          <li>Level 2, 696 Bourke St</li>
+          <li>Melbourne VIC 3000, Australia</li>
+          <li>Phone: 1300 65 0055</li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="{{ '/products/' | relative_url }}">Products</a></li>
+          <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+          <li><a href="{{ '/ai/' | relative_url }}">AI Solutions</a></li>
+          <li><a href="{{ '/news/' | relative_url }}">News</a></li>
+          <li><a href="{{ '/support/' | relative_url }}">Support</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <h4>About</h4>
+        <p>{{ site.description | escape }}</p>
+        {%- include social.html -%}
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      &copy; {{ 'now' | date: "%Y" }} {{ site.title | escape }}. ABN 81 072 587 976. All rights reserved.
+    </div>
+
+  </div>
+</footer>

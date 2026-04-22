@@ -8,24 +8,24 @@ permalink: /ai/
 ---
 ## Smart Cashflow Management
 ### Empowering Treasury Teams with Smarter Cash Management Forecasting using Artificial Intelligence
-Over recent years, CAPIX has developed **specialist expertise in Artificial Intelligence** for cashflow forecasting and risk management. Our team has built deep capabilities across machine learning, deep learning and — most recently — AI agents that can manage cashflows independently.
+Over recent years, CAPIX has developed **specialist expertise in Artificial Intelligence** for cashflow forecasting and risk management. Our team has built deep capabilities across machine learning, deep learning and &mdash; most recently &mdash; AI agents that can manage cashflows independently.
 
 CAPIX introduces the next generation in corporate treasury management: **AI-enhanced cashflow forecasting and autonomous treasury operations**. Designed for multinational businesses with complex, multi-currency operations, our forecasting and risk management modules leverage cutting-edge artificial intelligence models to improve the accuracy, adaptability, and confidence of your treasury operations.
 
-Traditionally, cashflow forecasting has relied on rule-based models and historical averages that often fall short in today's dynamic economic environment. With the rise of automation, machine learning and agentic AI, there's a better way to gain clarity into your future liquidity positions — and CAPIX is bringing it to your treasury.
+Traditionally, cashflow forecasting has relied on rule-based models and historical averages that often fall short in today's dynamic economic environment. With the rise of automation, machine learning and agentic AI, there's a better way to gain clarity into your future liquidity positions &mdash; and CAPIX is bringing it to your treasury.
 
-Read our latest article on [AI Agents for Autonomous Cashflow Management](/ai/agents/).
+<a href="/ai/agents/" class="btn btn-sm btn-secondary">Read: AI Agents for Autonomous Cashflow Management &rarr;</a>
 
 ---
 
 ### How It Works
-Our AI solution integrates directly with your existing ERP — including **Microsoft Dynamics 365**, **SAP** and **FinanceOne** — automatically ingesting and harmonizing financial data such as:
+Our AI solution integrates directly with your existing ERP &mdash; including **Microsoft Dynamics 365**, **SAP** and **FinanceOne** &mdash; automatically ingesting and harmonizing financial data such as:
 
 - Accounts Payable
 - Accounts Receivable
 - Budget and forecast inputs
 
-The system then applies a **hybrid AI model** — combining deep learning and machine learning techniques — to identify complex patterns and make accurate multi-horizon predictions.
+The system then applies a **hybrid AI model** &mdash; combining deep learning and machine learning techniques &mdash; to identify complex patterns and make accurate multi-horizon predictions.
 
 ![CAPIX AI cashflow forecasting architecture — hybrid model combining LSTM, Transformer and XGBoost with ERP data ingestion](./CAPIX-AI-Model.svg)
 
@@ -51,29 +51,27 @@ The system then applies a **hybrid AI model** — combining deep learning and ma
 ---
 
 ### Key Benefits
-- 🔮 **More Accurate Forecasts**  
-  Learn from historical trends, current inputs, and external signals to produce forecasts that evolve with your business.
 
-- 🌐 **Multi-Currency & Global Ready**  
-  Built with multinational operations in mind, the system supports FX impacts and cross-border visibility.
+- **More Accurate Forecasts** &mdash; Learn from historical trends, current inputs, and external signals to produce forecasts that evolve with your business.
 
-- 🔄 **Real-Time Updates**  
-  Connects directly to data sources and refreshes predictions as new data becomes available.
+- **Multi-Currency & Global Ready** &mdash; Built with multinational operations in mind, the system supports FX impacts and cross-border visibility.
 
-- ✅ **Easy Integration**  
-  Works seamlessly with CAPIX’s existing modules, with minimal effort from your IT team.
+- **Real-Time Updates** &mdash; Connects directly to data sources and refreshes predictions as new data becomes available.
 
-- 🔍 **Auditability & Explainability**  
-  Forecast drivers and model logic are transparent, giving confidence to CFOs and auditors alike.
+- **Easy Integration** &mdash; Works seamlessly with CAPIX's existing modules, with minimal effort from your IT team.
+
+- **Auditability & Explainability** &mdash; Forecast drivers and model logic are transparent, giving confidence to CFOs and auditors alike.
 
 ---
 
 ### AI Agents for Treasury
-CAPIX is now applying **agentic AI** to treasury operations — AI agents that can monitor cashflows, identify risks and take management actions independently. Read our article on how this technology is transforming corporate treasury -> [AI Agents for Autonomous Cashflow Management](/ai/agents/)
+CAPIX is now applying **agentic AI** to treasury operations &mdash; AI agents that can monitor cashflows, identify risks and take management actions independently. [Read our article on AI Agents for Autonomous Cashflow Management &rarr;](/ai/agents/)
 
 ---
 
 ### Learn More
-Want to see the AI forecast module or autonomous agents in action? [Contact CAPIX](/contact/) for a personalised demonstration.
+Want to see the AI forecast module or autonomous agents in action?
 
-_CAPIX – empowering better decisions through intelligent treasury solutions._
+<a href="/contact/" class="btn btn-primary">Request a Demo</a>
+
+_CAPIX &ndash; empowering better decisions through intelligent treasury solutions._
