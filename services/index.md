@@ -7,7 +7,7 @@ image: /assets/img/CAPIX_large_logo.jpg
 permalink: /services/
 ---
 
-<div class="service-section">
+<div class="service-section" markdown="1">
 
 ### Analysis, Consulting and Project Management
 
@@ -17,7 +17,7 @@ Our extensive domain knowledge within the treasury and securities sector enables
 
 </div>
 
-<div class="service-section">
+<div class="service-section" markdown="1">
 
 ### Software Customisation and Development
 
@@ -29,7 +29,7 @@ On occasion we undertake more extensive projects and have even developed whole n
 
 </div>
 
-<div class="service-section">
+<div class="service-section" markdown="1">
 
 ### Contract Software Engineering
 
@@ -41,7 +41,7 @@ CAPIX has the expertise to build Artificial Intelligence solutions using Large Q
 
 </div>
 
-<div class="service-section">
+<div class="service-section" markdown="1">
 
 ### AI and Machine Learning
 
