@@ -37,7 +37,20 @@
       "Bash(echo \"MB: $\\(awk 'BEGIN{printf \"%.2f\\\\n\", 50306545/1024/1024}'\\)\")",
       "Bash(bundle --version)",
       "Bash(ruby --version)",
-      "Bash(jekyll --version)"
+      "Bash(jekyll --version)",
+      "Bash(gh api *)",
+      "Bash(gh repo *)",
+      "Bash(powershell -Command \"Get-Command pdftotext, pdftoppm, mutool -ErrorAction SilentlyContinue | Select-Object Name, Source\")",
+      "Bash(pdftotext -layout \"Software activities and the RDTI PDF.pdf\" \"Software activities and the RDTI PDF.txt\")",
+      "Bash(pdftotext -layout \"TA 2017_5 _ Legal database.pdf\" \"TA 2017_5.txt\")",
+      "Bash(pdftotext -layout \"TA 2017_5A - Addendum _ Legal database.pdf\" \"TA 2017_5A.txt\")",
+      "Bash(pdftotext -layout \"_au_cases_cth_FCAFC_2019_120.pdf\" \"FCAFC_2019_120.txt\")",
+      "Bash(pdftotext \"TA 2017_5 _ Legal database.pdf\" \"TA 2017_5.txt\")",
+      "Bash(pdftotext \"TA 2017_5A - Addendum _ Legal database.pdf\" \"TA 2017_5A.txt\")",
+      "Bash(pdftotext -raw \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5 _ Legal database.pdf\" \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5.txt\")",
+      "Bash(pdftotext -raw \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A - Addendum _ Legal database.pdf\" \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A.txt\")",
+      "Bash(pdfinfo \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5 _ Legal database.pdf\")",
+      "Bash(pdfinfo \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A - Addendum _ Legal database.pdf\")"
     ]
   }
 }
