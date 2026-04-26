@@ -145,5 +145,5 @@ We publish a portfolio of Microsoft-based treasury software solutions designed f
 </table>
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/contact/" class="btn btn-primary">Request a Demo</a>
+  <a href="/demo/" class="btn btn-primary">Request a Demo</a>
 </p>

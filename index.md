@@ -11,7 +11,8 @@ permalink: /
   <h1>Agile Treasury Software</h1>
   <p class="hero-sub">Microsoft-based solutions for corporate treasuries, investment managers and capital markets &mdash; designed for Dynamics 365, SAP and leading ERP platforms</p>
   <div class="hero-actions">
-    <a href="/products/" class="btn btn-primary">Explore Products</a>
+    <a href="/demo/" class="btn btn-primary">Book a Demo</a>
+    <a href="/products/" class="btn btn-light">Explore Products</a>
     <a href="/contact/" class="btn btn-light">Contact Us</a>
   </div>
 </section>

@@ -776,13 +776,19 @@ details.news-archive {
     }
   }
 
+  address.contact-list {
+    font-style: normal;
+    line-height: 1.7;
+  }
+
   .contact-list {
     .p-name {
       color: #ffffff;
       font-weight: 500;
     }
 
-    a.u-email {
+    a.u-email,
+    a.p-tel {
       color: $capix-footer-text;
       &:hover { color: #ffffff; }
     }
@@ -818,6 +824,178 @@ details.news-archive {
     text-align: center;
     font-size: 0.8rem;
     color: rgba(255, 255, 255, 0.35);
+
+    a {
+      color: rgba(255, 255, 255, 0.55);
+      &:hover { color: #ffffff; text-decoration: none; }
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Demo / Lead Capture Form
+// --------------------------------------------------------------------------
+.demo-booking-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  background: $capix-primary-light;
+  border: 1px solid lighten($capix-primary, 25%);
+  border-left: 4px solid $capix-primary;
+  border-radius: $capix-radius;
+  padding: 1.1rem 1.25rem;
+  margin: 1.5rem 0;
+
+  .demo-booking-banner-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+
+    strong { color: $capix-primary-dark; font-size: 1rem; }
+    span { color: $capix-text; font-size: 0.92rem; }
+  }
+
+  .btn { white-space: nowrap; }
+}
+
+.demo-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+
+  @media screen and (max-width: 900px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.demo-form-card,
+.demo-side-card {
+  background: #ffffff;
+  border: 1px solid $capix-border;
+  border-radius: $capix-radius;
+  padding: 1.75rem;
+  box-shadow: $capix-shadow;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  h4 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid $capix-border;
+    margin: 1.25rem 0;
+  }
+}
+
+.demo-form {
+  .form-row {
+    margin-bottom: 1rem;
+
+    label {
+      display: block;
+      font-weight: 600;
+      font-size: 0.88rem;
+      margin-bottom: 0.35rem;
+      color: $capix-text;
+    }
+
+    .req {
+      color: #c53030;
+      font-weight: 700;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 0.6rem 0.75rem;
+      border: 1px solid $capix-border;
+      border-radius: $capix-radius;
+      font-family: inherit;
+      font-size: 0.95rem;
+      color: $capix-text;
+      background: #ffffff;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+      &:focus {
+        outline: none;
+        border-color: $capix-primary;
+        box-shadow: 0 0 0 3px rgba(0, 120, 212, 0.15);
+      }
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 96px;
+    }
+  }
+
+  .form-row-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+
+    @media screen and (max-width: 600px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .form-row-honeypot {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .form-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+  }
+
+  .form-note {
+    font-size: 0.85rem;
+    color: $capix-text-light;
+  }
+}
+
+.demo-direct-list,
+.demo-expect-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+    padding: 0.3rem 0;
+    font-size: 0.92rem;
+  }
+}
+
+.demo-expect-list li {
+  padding-left: 1.25rem;
+  position: relative;
+
+  &::before {
+    content: "\2713";
+    color: $capix-primary;
+    font-weight: 700;
+    position: absolute;
+    left: 0;
   }
 }
 

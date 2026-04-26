@@ -159,6 +159,17 @@ round-avatar: false
 # The keywords to associate with your website, for SEO purposes
 keywords: "treasury software, cash management, cashflow forecasting, AI treasury, Dynamics 365 treasury, SAP treasury, corporate treasury, investment management, ERP integration, Microsoft Azure, CAPIX"
 
+# --- Demo / lead-capture form ---
+# Set formspree_id to your Formspree form ID (e.g. "xpzgwkpj") to wire up
+# the /demo/ page form. Sign up at https://formspree.io/, create a form,
+# and copy the ID from the form's endpoint URL (the part after /f/).
+# Leave blank to fall back to a mailto: link.
+formspree_id: ""
+
+# Calendar booking link surfaced on the /demo/ page (Microsoft Bookings,
+# Calendly, or any direct scheduling URL). Leave blank to hide the button.
+booking_url: "https://outlook.office.com/bookwithme/user/586ad76f2fd443d7989f7f24d58895f3@capix.net/meetingtype/Z40OrQtVg0SpfSo9-ih4Yg2?anonymous&ismsaljsauthenabled&ep=mlink"
+
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
