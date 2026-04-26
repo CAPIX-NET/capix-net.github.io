@@ -33,9 +33,11 @@ On occasion we undertake more extensive projects and have even developed whole n
 
 ### Contract Software Engineering
 
-We apply our deep industry and software development expertise for companies in the Financial Services sector. Our deep expertise in Microsoft technology &mdash; including .NET, Azure, and the Dynamics 365 platform &mdash; combined with treasury and securities business knowledge positions us well to complete bespoke software application projects of any size. We also have extensive experience integrating with SAP, FinanceOne and other enterprise platforms.
+We apply our deep industry and software development expertise for companies in the Financial Services sector. Our deep expertise in Microsoft technology including .NET, Azure, and the Dynamics 365 platform combined with treasury and securities business knowledge positions us well to complete bespoke software application projects of any size. We also have extensive experience integrating with SAP, FinanceOne and other enterprise platforms.
 
 One project was a wholesale Bond Trading internet portal for Commonwealth Bank. This internet Bond trading portal supported Bond trading between the bank and clients in both the primary and secondary markets. The first version of this project was completed to a tight deadline and was live in six weeks.
+
+CAPIX has the expertise to build Artificial Intelligence solutions using Large Quantitive Models.
 
 </div>
 
@@ -43,9 +45,9 @@ One project was a wholesale Bond Trading internet portal for Commonwealth Bank. 
 
 ### AI and Machine Learning
 
-CAPIX has developed specialist expertise in Artificial Intelligence for the financial markets. Our AI capabilities include cashflow forecasting, risk management, anomaly detection and &mdash; most recently &mdash; AI agents that can manage cashflows independently. We apply this expertise both within our own products and as a consulting service for clients looking to bring AI into their treasury and financial operations.
+CAPIX has developed specialist expertise in Artificial Intelligence for the financial markets. Our AI capabilities include cashflow forecasting, risk management, anomaly detection and most recently AI agents that can manage cashflows independently. We apply this expertise both within our own products and as a consulting service for clients looking to bring AI into their treasury and financial operations.
 
-<a href="/ai/" class="btn btn-sm btn-secondary">Explore AI Solutions &rarr;</a>
+<a href="/ai/" class="btn btn-sm btn-secondary">Explore AI Solutions</a>
 
 </div>
 
