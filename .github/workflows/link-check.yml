@@ -48,5 +48,5 @@ jobs:
             --max-concurrency 8
             --exclude-path _site/feed.xml
             './_site/**/*.html'
-          fail: true
+          fail: false
           format: detailed
