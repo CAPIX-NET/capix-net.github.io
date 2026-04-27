@@ -50,7 +50,11 @@
       "Bash(pdftotext -raw \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5 _ Legal database.pdf\" \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5.txt\")",
       "Bash(pdftotext -raw \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A - Addendum _ Legal database.pdf\" \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A.txt\")",
       "Bash(pdfinfo \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5 _ Legal database.pdf\")",
-      "Bash(pdfinfo \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A - Addendum _ Legal database.pdf\")"
+      "Bash(pdfinfo \"C:/storage/git/capix/capix-net.github.io/ausindustry/TA 2017_5A - Addendum _ Legal database.pdf\")",
+      "Bash(pip install *)",
+      "Bash(pdftotext -layout \"P0YPKQBFM_RnDActivities_2324_12624879223.pdf\" /tmp/p0_rndactivities.txt)",
+      "Read(//tmp/**)",
+      "Bash(pdftotext -layout \"RDTI Registration Form List of Questions PDF.pdf\" /tmp/rdti_questions.txt)"
     ]
   }
 }
