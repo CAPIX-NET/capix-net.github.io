@@ -54,7 +54,8 @@
       "Bash(pip install *)",
       "Bash(pdftotext -layout \"P0YPKQBFM_RnDActivities_2324_12624879223.pdf\" /tmp/p0_rndactivities.txt)",
       "Read(//tmp/**)",
-      "Bash(pdftotext -layout \"RDTI Registration Form List of Questions PDF.pdf\" /tmp/rdti_questions.txt)"
+      "Bash(pdftotext -layout \"RDTI Registration Form List of Questions PDF.pdf\" /tmp/rdti_questions.txt)",
+      "Skill(update-config)"
     ]
   }
 }
