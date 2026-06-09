@@ -11,6 +11,10 @@ permalink: /news/
 
 <ul class="news-list">
   <li class="news-item">
+    <span class="news-date">09 Jun 2026</span>
+    <span class="news-content">CAPIX publishes article on <a href="/ai/local-hardware/">Running Large Quantitative Models on Local Hardware</a> &mdash; why we are moving our AI workloads in-house with the NVIDIA DGX Spark for greater control, data sovereignty and efficiency.</span>
+  </li>
+  <li class="news-item">
     <span class="news-date">23 Mar 2026</span>
     <span class="news-content">CAPIX publishes article on <a href="/ai/agents/">AI Agents for Autonomous Cashflow Management</a> &mdash; how we are using agentic AI to monitor, forecast and manage cashflows independently.</span>
   </li>
