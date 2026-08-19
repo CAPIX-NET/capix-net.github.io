@@ -1,0 +1,212 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: CAPIX Treasury Software
+email: info@capix.net
+description: CAPIX provides Microsoft-based treasury software designed for integration with Dynamics 365, SAP and other leading ERP platforms.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.capix.net" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+twitter_username: CapixTreasury
+github_username:  capix-net
+image: /assets/img/CAPIX_large_logo.jpg
+
+twitter:
+  card: summary_large_image
+  username: CapixTreasury
+
+#avatar: "/favicon.png"
+
+# Your name to show in the footer
+author: CAPIX
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-redirect-from
+
+header_pages:
+  - index.md
+  - products/index.md
+  - services/index.md
+  - ai/index.md
+  - news/index.md
+  - about/index.md
+  - support/index.md
+  - contact/index.md
+
+show_excerpts: true
+
+#defaults:
+#  - scope:
+#      path: "" # all files
+#    values:
+#      permalink: "/:title:output_ext"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# Exclude these files from production site
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CHANGELOG.md
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+  - CLAUDE.md
+  - jekyll_website_notes.md
+  - dynamics-365.md
+  - copilot-modernization.md
+  - Web-enabled-treasury-application-project.md
+  - ai/local-hardware/social-posts.md
+  - ai/large-quantitative-models/social-posts.md
+  - ausindustry/
+  - ato/
+
+# --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: info@capix.net
+  facebook: capixsoftware
+  github: capix-net
+  twitter: CapixTreasury
+#  youtube: c/daattali
+#  reddit: DigitalMonetaryFund
+  linkedin: capix-treasury-software
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+  telephone: 1300 65 0055
+#  telegram: yourname
+#  calendly: yourname
+
+# If you want to show a link to an RSS in the footer, add the site description here.
+# If you don't want to show an RSS link, remove the following line.
+rss-description: CAPIX
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  email: true
+  twitter: true
+  facebook: true
+  linkedin: true
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "capix.net"
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+excerpt_separator: <!--more-->
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/capix_logo.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
+
+# The keywords to associate with your website, for SEO purposes
+keywords: "treasury software, cash management, cashflow forecasting, AI treasury, Dynamics 365 treasury, SAP treasury, corporate treasury, investment management, ERP integration, Microsoft Azure, CAPIX"
+
+# --- Demo / lead-capture form ---
+# Set formspree_id to your Formspree form ID (e.g. "xpzgwkpj") to wire up
+# the /demo/ page form. Sign up at https://formspree.io/, create a form,
+# and copy the ID from the form's endpoint URL (the part after /f/).
+# Leave blank to fall back to a mailto: link.
+formspree_id: ""
+
+# Calendar booking link surfaced on the /demo/ page (Microsoft Bookings,
+# Calendly, or any direct scheduling URL). Leave blank to hide the button.
+booking_url: "https://outlook.office.com/bookwithme/user/586ad76f2fd443d7989f7f24d58895f3@capix.net/meetingtype/Z40OrQtVg0SpfSo9-ih4Yg2?anonymous&ismsaljsauthenabled&ep=mlink"
+
+# --- Colours / background image --- #
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+# Colors and images are now managed via custom SCSS (_sass/capix-custom.scss)
+# These legacy variables are retained for reference but are not used by the current theme overrides.
+#
+# navbar-col: "#1e3a5f"
+# text-col: "#2d3748"
+# link-col: "#0078D4"
+# footer-col: "#1a202c"
+
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
+
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
+
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
+
+# --- Web Analytics Section --- #
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using Google Analytics
+# Uncomment and add your GA tracking ID to enable analytics:
+#google_analytics: "G-XXXXXXXXXX"
+
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
