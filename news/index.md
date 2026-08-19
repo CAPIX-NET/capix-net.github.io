@@ -11,6 +11,12 @@ permalink: /news/
 
 <ul class="news-list">
   <li class="news-item">
+   <span class="news-date">19 Aug 2026</span>
+    <span class="news-content">CAPIX publishes article <a href="/ai/synthetic-data/">Synthetic Data Generation in Quantitative AI for Financi
+al Applications</a> - how Monte Carlo simulation, GANs, VAEs, diffusion models and agent-based simulation are used to train and stress-
+test treasury AI, and where we draw the line on relying on it.</span>
+  </li>
+  <li class="news-item">  
     <span class="news-date">31 Jul 2026</span>
     <span class="news-content">CAPIX publishes article <a href="/ai/large-quantitative-models/">Large Quantitative Models for Treasury: A Comparison</a> &mdash; a survey of alternative AI and quantitative models for cash flow forecasting and risk management, and why we recommend a layered hybrid over any single model.</span>
   </li>
